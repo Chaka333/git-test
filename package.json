@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "discription": "Git and NPM",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaka333/git-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Chaka333/git-test/issues"
+  },
+  "homepage": "https://github.com/Chaka333/git-test#readme",
+  "description": "",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
